@@ -1,3 +1,4 @@
+
 # <span style="color:red">**NION: TRUNCHEON**</span>
 
 <marquee>| Welcome to the documentation page! This is under development and hence, you can follow the progress here. | Katana Update is being worked on as we speak. | This new structure shall help in maintaining the project files effectively, and hence it shall take quite some time for Truncheon's update to be released. |</marquee>
@@ -30,9 +31,9 @@ Well, now that the introduction about Truncheon is done, here are a few suggeste
 --- | --- 
 | First Release | Preview |
 | Latest Release | Coming Soon |
-| Internal Documentation | [Available, Under Development](https://dak404.github.io/TruncheonDocumentation/InternalDocs/index.html) |
-| Developer Documentation | [Available, Under Development](https://dak404.github.io/TruncheonDocumentation/DeveloperDocs/index.html)
-| Program Guide | [Partial](/TruncheonDocumentation/Guide/Readme.md)
+| Internal Documentation | [Available, Under Development](https://dak404.github.io/TruncheonDocs/InternalDocs/index.html) |
+| Developer Documentation | [Available, Under Development](https://dak404.github.io/TruncheonDocs/DeveloperDocs/index.html) |
+| Program Guide | [Partial](Guide/GuideMe.md) |
 
 ---
 

@@ -1,1 +1,23 @@
-theme: jekyll-theme-minimal
+remote_theme: DAK404/minimal
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - Readme.md
+  - License.md
+  - index.md
+
+logo: ./assets/Images/Logo.png
+title: Nion - Truncheon
+description: Documentation, References, EasyGuide. All In One Place.
+show_downloads: false
+
+github:
+  release_url: https://gitreleases.dev/gh/DAK404/Truncheon/latest/Truncheon.zip
+  jre_url: https://github.com/DAK404/Truncheon/releases/tag/JRE
+  doc_url: https://dak404.github.io/Truncheon/Documentation/index.html
